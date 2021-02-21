@@ -10,13 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="搭建html结构">
+    <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="完成Topnav的封装">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Topnav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Topnav.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Doc.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Doc.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <updated>1613903995418</updated>
       <workItem from="1613903997032" duration="530000" />
       <workItem from="1613904552368" duration="717000" />
-      <workItem from="1613905286893" duration="3653000" />
+      <workItem from="1613905286893" duration="5207000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1613905352846</created>
@@ -83,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613909639476</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="完成Topnav的封装">
+      <created>1613910194712</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613910194712</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +111,8 @@
     <MESSAGE value="初始化" />
     <MESSAGE value="初始化vue-router" />
     <MESSAGE value="搭建html结构" />
-    <option name="LAST_COMMIT_MESSAGE" value="搭建html结构" />
+    <MESSAGE value="完成Topnav的封装" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成Topnav的封装" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1613904862398">
