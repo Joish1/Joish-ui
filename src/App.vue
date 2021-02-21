@@ -1,15 +1,11 @@
 <template>
   <div>hi</div>
-  <Joish/>
+  <router-view />
 </template>
 
 <script>
-import Joish from './components/Joish.vue'
 
 export default {
   name: 'App',
-  components: {
-    Joish
-  }
 }
 </script>
