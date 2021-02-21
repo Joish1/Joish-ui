@@ -1,9 +1,6 @@
 <template>
   <div>
-    <div class="topnav">
-      <div class="logo"></div>
-      <div class="menu"></div>
-    </div>
+    <Topnav/>
     <div class="banner">
       <h1>Joish UI</h1>
       <h2>一个简单好用的 UI 框架</h2>
@@ -15,15 +12,9 @@
   </div>
 </template>
 
-<!--<script lang="ts">-->
-<!--import Vue from 'vue';-->
-<!--import {Component, Prop} from 'vue-property-decorator';-->
-<!--@Component-->
-<!--export default class Home extends Vue {-->
-
-<!--}-->
-<!--</script>-->
-
-<!--<style lang="scss" scoped>-->
-
-<!--</style>-->
+<script lang="ts">
+import Topnav from '../components/Topnav.vue'
+export default {
+  components: {Topnav}
+}
+</script>
