@@ -1,5 +1,5 @@
 <template>
-  <button @click="toggle" :class="{checked:value}">
+  <button class="joish-switch" @click="toggle" :class="{'joish-checked':value}">
     <span></span>
   </button>
   <div>{{ value }}</div>
@@ -21,10 +21,10 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
 $h: 22px;
 $h2: $h - 4px;
-button {
+.joish-switch {
   height: $h;
   width: $h*2;
   border: none;
@@ -43,7 +43,7 @@ button {
     transition: all 250ms;
   }
 
-  &.checked {
+  &.joish-checked {
     background: #1890ff;
 
     > span {
@@ -61,7 +61,7 @@ button {
     }
   }
 
-  &.checked:active {
+  &.joish-checked:active {
     > span {
       width: $h2 + 4px;
       margin-left: -4px;
