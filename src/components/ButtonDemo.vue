@@ -1,13 +1,24 @@
 <template>
-  <div>switch</div>
+  <div>
+    <Button></Button>
+    <Button theme="button"></Button>
+    <Button theme="link"></Button>
+    <Button theme="text"></Button>
+  </div>
 </template>
 
 <script lang="ts">
 import Button from '../lib/Button.vue';
 
 export default {
-  components: {Button}
-}
+  components: {Button},
+  setup() {
+    const onClick = () => {
+
+    };
+    return {onClick};
+  }
+};
 </script>
 
 <style lang="scss" scoped>
