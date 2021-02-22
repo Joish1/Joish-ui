@@ -1,5 +1,5 @@
 <template>
-  <button class="joish-button" :class="classes">
+  <button class="joish-button" :class="classes" :disabled="disabled">
     <slot/>
   </button>
 </template>
@@ -21,6 +21,10 @@ export default {
       type: String,
       default: 'normal',
     },
+    disabled: {
+      type: Boolean,
+      disabled: false
+    }
   },
   setup(props) {
     const {theme, size, level} = props;
@@ -44,6 +48,7 @@ $color: #333;
 $blue: #40a9ff;
 $radius: 4px;
 $red: red;
+$grey: grey;
 .joish-button {
   box-sizing: border-box;
   height: $h;
@@ -164,6 +169,24 @@ $red: red;
       &:focus {
         color: darken($red, 10%);
       }
+    }
+  }
+
+  &.joish-theme-button {
+    &[disabled] {
+      cursor: not-allowed;
+      color: $grey;
+
+      &:hover {
+        border-color: $grey;
+      }
+    }
+  }
+
+  &.joish-theme-link, &.joish-theme-text {
+    &[disabled] {
+      cursor: not-allowed;
+      color: $grey;
     }
   }
 }
