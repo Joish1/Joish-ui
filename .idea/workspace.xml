@@ -10,13 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="整体布局css">
-      <change afterPath="$PROJECT_DIR$/src/components/ButtonDemo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/DialogDemo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TabsDemo.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router.ts" afterDir="false" />
-    </list>
+    <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="基本完成官网框架" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +60,7 @@
       <updated>1613903995418</updated>
       <workItem from="1613903997032" duration="530000" />
       <workItem from="1613904552368" duration="717000" />
-      <workItem from="1613905286893" duration="11384000" />
+      <workItem from="1613905286893" duration="11517000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1613905352846</created>
@@ -145,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613916994232</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="基本完成官网框架">
+      <created>1613923363310</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1613923363310</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +176,8 @@
     <MESSAGE value="完善aside切换逻辑" />
     <MESSAGE value="路由切换之后关闭aside" />
     <MESSAGE value="整体布局css" />
-    <option name="LAST_COMMIT_MESSAGE" value="整体布局css" />
+    <MESSAGE value="基本完成官网框架" />
+    <option name="LAST_COMMIT_MESSAGE" value="基本完成官网框架" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1613904862398">
