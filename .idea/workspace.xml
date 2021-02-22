@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="基本完成官网框架">
-      <change beforePath="$PROJECT_DIR$/src/lib/Switch.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/Switch.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SwitchDemo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SwitchDemo.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <workItem from="1613903997032" duration="530000" />
       <workItem from="1613904552368" duration="717000" />
       <workItem from="1613905286893" duration="11517000" />
-      <workItem from="1613964864839" duration="3168000" />
+      <workItem from="1613964864839" duration="3384000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1613905352846</created>
@@ -191,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613969603254</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="更新css">
+      <created>1613969887101</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1613969887101</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,7 +236,8 @@
     <MESSAGE value="使得动画流畅" />
     <MESSAGE value="可以接受value和input事件" />
     <MESSAGE value="使用v-model" />
-    <option name="LAST_COMMIT_MESSAGE" value="使用v-model" />
+    <MESSAGE value="更新css" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新css" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1613904862398">
