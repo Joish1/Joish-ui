@@ -11,11 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="基本完成官网框架">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ButtonDemo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ButtonDemo.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lib/Button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/Button.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/gulu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/joish.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +64,7 @@
       <workItem from="1613903997032" duration="530000" />
       <workItem from="1613904552368" duration="717000" />
       <workItem from="1613905286893" duration="11517000" />
-      <workItem from="1613964864839" duration="16020000" />
+      <workItem from="1613964864839" duration="16221000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1613905352846</created>
@@ -244,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613993333916</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="支持disabled">
+      <created>1614005165942</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1614005165942</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,7 +268,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="初始化" />
     <MESSAGE value="初始化vue-router" />
     <MESSAGE value="搭建html结构" />
     <MESSAGE value="完成Topnav的封装" />
@@ -289,7 +292,8 @@
     <MESSAGE value="添加css" />
     <MESSAGE value="支持size属性" />
     <MESSAGE value="支持level属性" />
-    <option name="LAST_COMMIT_MESSAGE" value="支持level属性" />
+    <MESSAGE value="支持disabled" />
+    <option name="LAST_COMMIT_MESSAGE" value="支持disabled" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1613977432585">
