@@ -11,8 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="基本完成官网框架">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TabsDemo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TabsDemo.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lib/Tabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/Tabs.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +70,7 @@
       <workItem from="1614061176420" duration="5620000" />
       <workItem from="1614083044556" duration="1610000" />
       <workItem from="1614085176317" duration="859000" />
-      <workItem from="1614087375264" duration="3069000" />
+      <workItem from="1614087375264" duration="3389000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1613905352846</created>
@@ -312,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614072205191</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="实现下划线滑动">
+      <created>1614090838209</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1614090838209</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,7 +337,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="完善aside切换逻辑" />
     <MESSAGE value="路由切换之后关闭aside" />
     <MESSAGE value="整体布局css" />
     <MESSAGE value="基本完成官网框架" />
@@ -357,7 +361,8 @@
     <MESSAGE value="Dialog支持visble" />
     <MESSAGE value="Dialog支持点击关闭" />
     <MESSAGE value="渲染Tabs内容" />
-    <option name="LAST_COMMIT_MESSAGE" value="渲染Tabs内容" />
+    <MESSAGE value="实现下划线滑动" />
+    <option name="LAST_COMMIT_MESSAGE" value="实现下划线滑动" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1613977432585">
