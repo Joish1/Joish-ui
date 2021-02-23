@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="基本完成官网框架">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/DialogDemo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DialogDemo.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lib/Dialog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/Dialog.vue" afterDir="false" />
     </list>
@@ -67,7 +68,7 @@
       <workItem from="1613964864839" duration="16717000" />
       <workItem from="1614006115626" duration="129000" />
       <workItem from="1614045974153" duration="2014000" />
-      <workItem from="1614055963754" duration="1194000" />
+      <workItem from="1614055963754" duration="2501000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1613905352846</created>
@@ -286,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614056905172</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Dialog支持visble">
+      <created>1614057201739</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1614057201739</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,7 +314,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="初始化aside的html" />
     <MESSAGE value="调节Topnav和aside的位置" />
     <MESSAGE value="实现aside切换" />
     <MESSAGE value="完善aside切换逻辑" />
@@ -331,7 +338,8 @@
     <MESSAGE value="基本完成Button组件" />
     <MESSAGE value="创建Dialog组件" />
     <MESSAGE value="完成Dialogcss" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成Dialogcss" />
+    <MESSAGE value="Dialog支持visble" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dialog支持visble" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1613977432585">
