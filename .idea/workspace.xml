@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="基本完成官网框架">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Doc.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Doc.vue" afterDir="false" />
-    </list>
+    <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="基本完成官网框架" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +72,7 @@
       <workItem from="1614094058268" duration="270000" />
       <workItem from="1614133302626" duration="11543000" />
       <workItem from="1614152882586" duration="14000" />
+      <workItem from="1614153013832" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1613905352846</created>
@@ -384,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614149462982</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="复杂一点的高亮">
+      <created>1614153234526</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1614153234526</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,7 +409,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="更新css" />
     <MESSAGE value="优化代码" />
     <MESSAGE value="创建button组件" />
     <MESSAGE value="添加theme属性" />
@@ -429,7 +433,8 @@
     <MESSAGE value="更新切换按钮的样式" />
     <MESSAGE value="解决手机端的bug" />
     <MESSAGE value="创建路由" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建路由" />
+    <MESSAGE value="复杂一点的高亮" />
+    <option name="LAST_COMMIT_MESSAGE" value="复杂一点的高亮" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1613977432585">
