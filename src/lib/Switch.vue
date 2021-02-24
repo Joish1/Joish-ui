@@ -2,7 +2,6 @@
   <button class="joish-switch" @click="toggle" :class="{'joish-checked':value}">
     <span></span>
   </button>
-  <div>{{ value }}</div>
 </template>
 
 <script lang="ts">
