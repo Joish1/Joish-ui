@@ -12,8 +12,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="基本完成官网框架">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Topnav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Topnav.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Doc.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Doc.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
       <workItem from="1614085176317" duration="859000" />
       <workItem from="1614087375264" duration="6241000" />
       <workItem from="1614094058268" duration="270000" />
-      <workItem from="1614133302626" duration="5781000" />
+      <workItem from="1614133302626" duration="7539000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1613905352846</created>
@@ -356,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614142559136</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="features样式">
+      <created>1614142904036</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1614142904036</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,7 +384,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="完成切换功能" />
     <MESSAGE value="使得动画流畅" />
     <MESSAGE value="可以接受value和input事件" />
     <MESSAGE value="使用v-model" />
@@ -401,7 +408,8 @@
     <MESSAGE value="背景渐变" />
     <MESSAGE value="引入icon" />
     <MESSAGE value="实现圆弧" />
-    <option name="LAST_COMMIT_MESSAGE" value="实现圆弧" />
+    <MESSAGE value="features样式" />
+    <option name="LAST_COMMIT_MESSAGE" value="features样式" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1613977432585">
