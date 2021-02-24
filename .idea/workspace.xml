@@ -11,12 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="基本完成官网框架">
-      <change afterPath="$PROJECT_DIR$/src/components/Demo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button1.demo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button2.demo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button3.demo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button4.demo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button5.demo.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Switch2.demo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Switch2.demo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Demo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Demo.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/SwitchDemo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SwitchDemo.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +56,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Joish\Desktop\demo\joish-ui-1\src\components" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Joish\Desktop\demo\joish-ui-1\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Joish\Desktop\demo\joish-ui-1\src\components" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -86,14 +88,7 @@
       <workItem from="1614153013832" duration="4100000" />
       <workItem from="1614170141176" duration="3579000" />
       <workItem from="1614175286481" duration="1336000" />
-      <workItem from="1614177777847" duration="2678000" />
-    </task>
-    <task id="LOCAL-00004" summary="完成Topnav的封装">
-      <created>1613910194712</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1613910194712</updated>
+      <workItem from="1614177777847" duration="4714000" />
     </task>
     <task id="LOCAL-00005" summary="简单完善css">
       <created>1613911587258</created>
@@ -431,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614179081248</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="显示demo标题">
+      <created>1614180815032</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1614180815032</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,7 +453,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="支持disabled" />
     <MESSAGE value="loading样式完善" />
     <MESSAGE value="基本完成Button组件" />
     <MESSAGE value="创建Dialog组件" />
@@ -476,7 +477,8 @@
     <MESSAGE value="抽离用户需要拷贝的代码" />
     <MESSAGE value="显示源代码" />
     <MESSAGE value="优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="优化" />
+    <MESSAGE value="显示demo标题" />
+    <option name="LAST_COMMIT_MESSAGE" value="显示demo标题" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1170" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614158995039">
