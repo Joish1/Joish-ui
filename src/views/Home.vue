@@ -1,14 +1,27 @@
 <template>
-  <div class="topnavAndBanner">
-    <Topnav/>
-    <div class="banner">
-      <h1>Joish UI</h1>
-      <h2>一个简单好用的 UI 框架</h2>
-      <p class="actions">
-        <a href="https://github.com/Joish1/Joish-ui">GitHub</a>
-        <router-link to="/doc">开始</router-link>
-      </p>
+  <div>
+    <div class="topnavAndBanner">
+      <Topnav/>
+      <div class="banner">
+        <h1>Joish UI</h1>
+        <h2>一个简单好用的 UI 框架</h2>
+        <p class="actions">
+          <a href="https://github.com/Joish1/Joish-ui">GitHub</a>
+          <router-link to="/doc">开始</router-link>
+        </p>
+      </div>
     </div>
+  </div>
+  <div class="features">
+    <svg class="icon">
+      <use xlink:href="#icon-vue"></use>
+    </svg>
+    <svg class="icon">
+      <use xlink:href="#icon-ts"></use>
+    </svg>
+    <svg class="icon">
+      <use xlink:href="#icon-light"></use>
+    </svg>
   </div>
 </template>
 
@@ -20,8 +33,17 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
+$blue: #3C50E0;
+$border-radius: 4px;
 .topnavAndBanner {
-  background: linear-gradient(143deg, rgba(232,241,255,1) 0%, rgba(46,91,164,1) 100%);
+  background: linear-gradient(143deg, rgba(232, 241, 255, 1) 0%, rgba(46, 91, 164, 1) 100%);
+}
+
+.features {
+  >svg {
+    width: 64px;
+    height: 64px;
+  }
 }
 .banner {
   padding: 100px 0;
@@ -36,13 +58,14 @@ export default {
 
     a {
       margin: 0 8px;
-      background: #fff;
+      background: $blue;
+      color: #fff;
       display: inline-block;
-      $h: 28px;
-      height: $h;
-      line-height: $h;
-      border-radius: $h/2;
-      padding: 0 8px;
+      padding: 8px 24px;
+      border-radius: $border-radius;
+      &:hover {
+        text-decoration: none;
+      }
     }
   }
 }

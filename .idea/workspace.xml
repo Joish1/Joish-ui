@@ -12,11 +12,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="基本完成官网框架">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Topnav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Topnav.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/Tabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/Tabs.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <workItem from="1614085176317" duration="859000" />
       <workItem from="1614087375264" duration="6241000" />
       <workItem from="1614094058268" duration="270000" />
-      <workItem from="1614133302626" duration="2125000" />
+      <workItem from="1614133302626" duration="4373000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1613905352846</created>
@@ -338,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614092923472</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="背景渐变">
+      <created>1614138462001</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1614138462002</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,7 +364,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="基本完成官网框架" />
     <MESSAGE value="Switch组件添加html" />
     <MESSAGE value="hover右滚" />
     <MESSAGE value="完成切换功能" />
@@ -383,7 +388,8 @@
     <MESSAGE value="实现下划线滑动" />
     <MESSAGE value="代码优化1" />
     <MESSAGE value="代码优化2" />
-    <option name="LAST_COMMIT_MESSAGE" value="代码优化2" />
+    <MESSAGE value="背景渐变" />
+    <option name="LAST_COMMIT_MESSAGE" value="背景渐变" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1613977432585">
