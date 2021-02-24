@@ -12,8 +12,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="基本完成官网框架">
       <change afterPath="$PROJECT_DIR$/src/components/Switch1.demo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Switch2.demo.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/SwitchDemo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SwitchDemo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/Switch.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/Switch.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +53,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Joish\Desktop\demo\joish-ui-1\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Joish\Desktop\demo\joish-ui-1\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Joish\Desktop\demo\joish-ui-1\src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -81,7 +83,7 @@
       <workItem from="1614133302626" duration="11543000" />
       <workItem from="1614152882586" duration="14000" />
       <workItem from="1614153013832" duration="4100000" />
-      <workItem from="1614170141176" duration="2082000" />
+      <workItem from="1614170141176" duration="2894000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1613905352846</created>
@@ -412,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614170300294</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="更新SwitchDemo">
+      <created>1614174035623</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1614174035623</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,7 +441,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="添加theme属性" />
     <MESSAGE value="添加css" />
     <MESSAGE value="支持size属性" />
     <MESSAGE value="支持level属性" />
@@ -457,7 +465,8 @@
     <MESSAGE value="复杂一点的高亮" />
     <MESSAGE value="填充文档内容" />
     <MESSAGE value="消除重复代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="消除重复代码" />
+    <MESSAGE value="更新SwitchDemo" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新SwitchDemo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1170" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614158995039">
