@@ -37,6 +37,7 @@ $blue: #3C50E0;
 $border-radius: 4px;
 .topnavAndBanner {
   background: linear-gradient(143deg, rgba(232, 241, 255, 1) 0%, rgba(46, 91, 164, 1) 100%);
+  clip-path: ellipse(80% 60% at 50% 40%);
 }
 
 .features {
