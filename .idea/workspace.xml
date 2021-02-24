@@ -11,6 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="基本完成官网框架">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Switch2.demo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Switch2.demo.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/SwitchDemo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SwitchDemo.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,14 +83,8 @@
       <workItem from="1614152882586" duration="14000" />
       <workItem from="1614153013832" duration="4100000" />
       <workItem from="1614170141176" duration="3579000" />
-      <workItem from="1614175286481" duration="914000" />
-    </task>
-    <task id="LOCAL-00002" summary="初始化vue-router">
-      <created>1613907374990</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1613907374990</updated>
+      <workItem from="1614175286481" duration="1336000" />
+      <workItem from="1614177777847" duration="1073000" />
     </task>
     <task id="LOCAL-00003" summary="搭建html结构">
       <created>1613909639476</created>
@@ -425,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614175560966</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="优化">
+      <created>1614177350655</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1614177350655</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,7 +449,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="支持level属性" />
     <MESSAGE value="支持disabled" />
     <MESSAGE value="loading样式完善" />
     <MESSAGE value="基本完成Button组件" />
@@ -470,7 +473,8 @@
     <MESSAGE value="更新SwitchDemo" />
     <MESSAGE value="抽离用户需要拷贝的代码" />
     <MESSAGE value="显示源代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="显示源代码" />
+    <MESSAGE value="优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1170" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614158995039">
