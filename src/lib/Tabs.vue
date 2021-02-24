@@ -38,6 +38,7 @@ export default {
     onMounted(x);
     onUpdated(x);
     const defaults = context.slots.default();
+    console.log(defaults);
     defaults.forEach((tag) => {
       if (tag.type !== Tab) {
         throw new Error('Tabs 子标签必须是 Tab');
