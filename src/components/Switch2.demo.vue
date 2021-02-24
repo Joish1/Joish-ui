@@ -3,7 +3,7 @@
 </demo>
 
 <template>
-  <Switch v-model:value="bool" disabled="disabled" />
+  <Switch v-model:value="bool" disabled />
 </template>
 
 <script lang="ts">
