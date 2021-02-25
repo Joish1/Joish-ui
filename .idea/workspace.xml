@@ -11,9 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="基本完成官网框架">
-      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tabs1.demo.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ButtonDemo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ButtonDemo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DialogDemo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DialogDemo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TabsDemo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TabsDemo.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,13 +86,6 @@
       <workItem from="1614170141176" duration="3579000" />
       <workItem from="1614175286481" duration="1336000" />
       <workItem from="1614177777847" duration="6303000" />
-    </task>
-    <task id="LOCAL-00010" summary="路由切换之后关闭aside">
-      <created>1613916822394</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1613916822394</updated>
     </task>
     <task id="LOCAL-00011" summary="整体布局css">
       <created>1613916994232</created>
@@ -428,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614227067114</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="添加一键部署脚本">
+      <created>1614229255283</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1614229255283</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,7 +450,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Dialog支持点击关闭" />
     <MESSAGE value="渲染Tabs内容" />
     <MESSAGE value="实现下划线滑动" />
     <MESSAGE value="代码优化1" />
@@ -473,7 +474,8 @@
     <MESSAGE value="修复disabled失效bug" />
     <MESSAGE value="解决http-server无法正常显示的bug" />
     <MESSAGE value="修改配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改配置" />
+    <MESSAGE value="添加一键部署脚本" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加一键部署脚本" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1170" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614183504162">
