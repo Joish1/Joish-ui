@@ -3,7 +3,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 ul,
 ol {
   list-style: none;
@@ -33,8 +32,10 @@ body {
   "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti",
   SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
 }
+
 .icon {
-  width: 1em; height: 1em;
+  width: 1em;
+  height: 1em;
   vertical-align: -0.15em;
   fill: currentColor;
   overflow: hidden;
