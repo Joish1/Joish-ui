@@ -13,9 +13,8 @@
     <list default="true" id="a2578b98-f46c-4e04-9ed8-4fbc9a404851" name="Default Changelist" comment="基本完成官网框架">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Demo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Demo.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Doc.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Doc.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/Tabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/Tabs.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,14 +95,7 @@
       <workItem from="1614244156420" duration="682000" />
       <workItem from="1614256437825" duration="345000" />
       <workItem from="1614256798709" duration="2162000" />
-      <workItem from="1614258989038" duration="1336000" />
-    </task>
-    <task id="LOCAL-00016" summary="使得动画流畅">
-      <created>1613966272401</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1613966272401</updated>
+      <workItem from="1614258989038" duration="2201000" />
     </task>
     <task id="LOCAL-00017" summary="可以接受value和input事件">
       <created>1613966876297</created>
@@ -441,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614246463652</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="优化样式，更新package.json">
+      <created>1614261179977</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1614261179978</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,7 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="引入icon" />
     <MESSAGE value="实现圆弧" />
     <MESSAGE value="features样式" />
     <MESSAGE value="更新切换按钮的样式" />
@@ -486,7 +484,8 @@
     <MESSAGE value="创建lib/index.ts" />
     <MESSAGE value="创建rollup.config.js" />
     <MESSAGE value="解决rollup无法执行的bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="解决rollup无法执行的bug" />
+    <MESSAGE value="优化样式，更新package.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化样式，更新package.json" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1165" y="339" key="#Notifications" timestamp="1614232954660">
