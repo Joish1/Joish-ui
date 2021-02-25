@@ -83,11 +83,11 @@ export default {
   > main {
     flex-grow: 1;
     padding: 16px;
-    background: white;
+    background: white
   }
 
   aside {
-    background: lightblue;
+    background: linear-gradient(152deg, rgba(255,255,255,1) 0%, rgba(64,105,173,1) 100%);
     width: 150px;
     padding: 16px 0;
     position: fixed;
