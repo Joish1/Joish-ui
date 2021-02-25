@@ -10,8 +10,8 @@ export default {
     globals: {
       vue: 'Vue'
     },
-    name: 'Gulu',
-    file: 'dist/lib/gulu.js',
+    name: 'Joish',
+    file: 'dist/lib/joish.js',
     format: 'umd',
     plugins: [terser()]
   },

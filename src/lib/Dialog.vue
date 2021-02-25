@@ -26,10 +26,6 @@ import Button from './Button.vue';
 
 export default {
   props: {
-    title: {
-      type: String,
-      default: '提示'
-    },
     visible: {
       type: Boolean,
       default: false

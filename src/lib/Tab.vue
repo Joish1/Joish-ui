@@ -5,9 +5,7 @@
 </template>
 
 <script lang="ts">
-export default {};
+export default {
+  name: 'JoishTab'
+};
 </script>
-
-<style lang="scss" scoped>
-
-</style>
