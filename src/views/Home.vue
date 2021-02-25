@@ -123,7 +123,7 @@ $border-radius: 32px;
       background: $blue;
       color: #fff;
       display: inline-block;
-      padding: 8px 24px;
+      padding: 4px 16px;
       border-radius: $border-radius;
 
       &:hover {

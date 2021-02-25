@@ -1,3 +1,23 @@
+ul,
+ol,
+li {
+  list-style: none;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+  font-weight: normal;
+}
+button {
+  text-transform: none;
+}
+button,input {
+  overflow: visible;
+}
+a, area, button, label, select, summary, textarea {
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+}
 [class^="joish-"], [class*=" joish-"] {
   margin: 0;
   padding: 0;

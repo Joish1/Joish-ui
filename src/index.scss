@@ -3,8 +3,18 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+* {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
 ul,
-ol {
+ol,
+li {
   list-style: none;
 }
 
@@ -22,6 +32,16 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
 
+button {
+  text-transform: none;
+}
+button,input {
+  overflow: visible;
+}
+a, area, button, label, select, summary, textarea {
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+}
 body {
   font-size: 16px;
   line-height: 2;
